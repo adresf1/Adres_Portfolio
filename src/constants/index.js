@@ -10,16 +10,9 @@ import {
   tailwind,
   nodejs,
   git,
-  edunet,
-  weatherpedia,
-  termpw,
-  payloadmaster,
-  threejs,
-  mhft,
-  sketcher,
-  mathwork,
-  CompileVortex,
-  eduskill,
+ 
+ 
+  
 } from "../assets";
 
 export const navLinks = [
