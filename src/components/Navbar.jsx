@@ -9,8 +9,8 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   const toggleResume = () => {
-    const resumeUrl = '/Resume.pdf';
-    window.open(resumeUrl);
+    const resumeUrl = '/Adres_Portfolio/Resume.pdf';
+        window.open(resumeUrl);
   };
 
   useEffect(() => {
