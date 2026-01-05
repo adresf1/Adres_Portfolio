@@ -31,7 +31,7 @@ export const navLinks = [
 ];
 
 export const services = [
-  { title: "C", icon: c },
+  { title: "C and C++", icon: c },
   { title: "JS", icon: "https://w7.pngwing.com/pngs/113/458/png-transparent-javascript-logo-comment-html-markup-language-analitycs-angle-text-rectangle-thumbnail.png" },
   { title: ".Net", icon: "https://img.icons8.com/color/600/net-framework.png" },
   { title: "Java", icon: java },
@@ -64,13 +64,13 @@ export const experiences = [
     ],
   },
   {
-    title: "Fredericia gymnasium",
-    company_name: "Math A, Samf A",
-    icon: "https://cdn.theorg.com/b0479a4e-2342-41f5-9823-67ff9fc0317a_small.jpg",
+    title: "Interacoustics",
+    company_name: "Software Engineering Intern",
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIek_x7MtB65mfMnCzlsmCphcr7aEUE3E0pw&s",
     iconBg: "#ffffff",
-    date: "aug. 2020 - jun 2023",
+    date: "aug. 2025 - jan 2026",
     points: [
-      ,
+      "During my internship at Interacoustics, I worked as a Software Development Engineering Intern developing object oriented C++ software for embedded devices, including GUI development using LVGL, a QR scanner, and Bluetooth communication module. I also worked with unit testing using GoogleTest and GoogleMock, developed a messaging system for a battery simulator, and handled DevOps tasks in Microsoft Azure.",
     ],
   },
   
@@ -78,7 +78,7 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Greenhouse (Embedded) (Currently Working On)",
+    name: "Greenhouse",
     description:
       "Designing IoT solutions with CI/CD, hardware programming, cloud backend, and DevOps. Developing an IoT-based greenhouse integrated with machine learning and a frontend solution.",
     tags: [
